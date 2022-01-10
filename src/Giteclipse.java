@@ -1,5 +1,5 @@
 
-public class Giteclipse {
+public class Giteclipse2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,7 +22,7 @@ public class Giteclipse {
 		}
 		
 		
-
+		System.out.println("changing in git2");
 
 	}
 
